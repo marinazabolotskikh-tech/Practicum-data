@@ -9,4 +9,4 @@
 
 ### Инструменты
 
-Python, Pandas, Matplotlib, Seaborn
+Python, Pandas, Numpy, Scipy, Matplotlib, Plotly, Seaborn
