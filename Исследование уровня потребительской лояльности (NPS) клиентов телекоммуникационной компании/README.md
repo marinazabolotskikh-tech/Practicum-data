@@ -16,4 +16,4 @@
 Итоговое значение NPS рассчитывается по формуле: % «сторонников» - % «критиков».
 
 ### Инструменты
-SQL, Python, pandas, numpy, Tableau
+SQL, Python, pandas, Tableau
