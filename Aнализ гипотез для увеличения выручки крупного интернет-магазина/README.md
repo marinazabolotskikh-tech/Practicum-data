@@ -6,4 +6,4 @@
 
 ### Инструменты
 
-Python, Pandas, Matplotlib, Seaborn
+Python, pandas, matplotlib, numpy, datetime
