@@ -6,4 +6,4 @@
 
 ### Инструменты
 
-Python, pandas, matplotlib, numpy, datetime
+Python, pandas, scipy, matplotlib, Jupyter Notebook
