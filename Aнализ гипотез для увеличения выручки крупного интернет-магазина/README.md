@@ -6,4 +6,4 @@
 
 ### Инструменты
 
-Python, pandas, matplotlib, seaborn, plotly, folium, Jupyter Notebook
+Python, pandas, scipy, matplotlib, Jupyter Notebook
