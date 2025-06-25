@@ -8,4 +8,4 @@
 
 ### Инструменты
 
-Python, pandas, matplotlib, seaborn, numpy, datetime
+Python, pandas, matplotlib, seaborn, numpy, datetime, Jupyter Notebook
