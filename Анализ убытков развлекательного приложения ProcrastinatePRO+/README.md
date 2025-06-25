@@ -15,4 +15,4 @@
 
 ### Инструменты
 
-Python, pandas, matplotlib, seaborn, numpy, plotly
+Python, pandas, matplotlib, Jupyter Notebook
