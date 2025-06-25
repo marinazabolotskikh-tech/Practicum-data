@@ -5,4 +5,4 @@
 Необходимо исследовать рынок Москвы, найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места.
 
 ### Инструменты
-Python, pandas, matplotlib, seaborn, numpy, plotly, folium
+Python, pandas, matplotlib, seaborn, plotly, folium, Jupyter Notebook
