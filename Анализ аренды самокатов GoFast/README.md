@@ -8,4 +8,4 @@
 
 ### Инструменты
 
-Python, pandas, matplotlib, seaborn, numpy
+Python, scipy, pandas, matplotlib, Jupyter Notebook
