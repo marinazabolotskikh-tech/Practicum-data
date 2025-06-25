@@ -11,4 +11,4 @@
 - определить типичные параметры квартир
 
 ### Инструменты
-Python, pandas
+Python, pandas, matplotlib, Jupyter Notebook
