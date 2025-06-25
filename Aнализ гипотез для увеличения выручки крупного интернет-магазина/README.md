@@ -6,4 +6,4 @@
 
 ### Инструменты
 
-Python, pandas, sqlite, matplotlib, Jupyter Notebook, Tableau Public
+Python, pandas, matplotlib, seaborn, plotly, folium, Jupyter Notebook
