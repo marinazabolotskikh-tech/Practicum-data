@@ -10,4 +10,4 @@
 
 ### Инструменты
 
-Python, pandas, matplotlib, seaborn
+Python, pandas, scikit-learn, Jupyter Notebook
